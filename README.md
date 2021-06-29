@@ -5,4 +5,4 @@ The OTTER CPU has 37 base instructions and 26 psuedo instructions, in line with 
 
 Computer Architecture can be seen as the following:
 
-![OTTER ARCHITECTURE] 
+![OTTER ARCHITECTURE](https://github.com/Arsalan-M/CPE333/blob/main/OtterArchitecturev18.png)
